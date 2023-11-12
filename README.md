@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Amine, an AI Engineer 🤖 👨‍💻  🚀 </div>  
+### <div align="center">I'm Amine Zerarga, an AI Engineer 🤖 👨‍💻  🚀 </div>  
   
 
 <div align="right">
