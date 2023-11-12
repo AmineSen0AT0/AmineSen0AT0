@@ -9,7 +9,12 @@
 <div align="right">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" height="" width="400" />
 </div>  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=Amine&&style=flat-square)  
   
+
 
 - 🔭 I’m currently working on my Final Year Project  
   
@@ -34,6 +39,18 @@
 
 <br/>  
 
+## Connect with me  
+<div align="center">
+<a href="https://github.com/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aminezerarga/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -52,8 +69,8 @@
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
 </div>
 
+  
 </td><td valign="top" width="33%">
-
 
 
 ### WEB  
@@ -88,41 +105,18 @@
 <br/>  
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aminezerarga/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
 
 ## Github Stats  
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=Amine&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminesen0at0&show_icons=true&locale=en&layout=compact" alt="aminesen0at0" /></p>
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=Amine&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amine&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
 
 
-## Recent Blog Posts  
   
 
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Amine&&style=flat-square)  
-  
-
-<br/>  
 
 
 <br />
