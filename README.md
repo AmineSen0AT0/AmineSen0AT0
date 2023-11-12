@@ -2,8 +2,8 @@
 <img src="https://i.pinimg.com/originals/2e/32/bf/2e32bffb1ce79a5d6c23e01238230d07.gif" align="center" style="width: 100%" />
 </div>  
   
-
-### <div align="center">I'm Amine Zerarga, an AI Engineer 🤖 👨‍💻  🚀 </div>  
+<h1 align="center">Hi 👋, I'm Amine Zerarga</h1>
+<h3 align="center">A passionate AI Engineer 🤖 👨‍💻  🚀</h3>
   
 
 <div align="right">
