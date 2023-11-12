@@ -20,7 +20,7 @@
 - ❓ Ask me about anything related to AI , ML , DL , Computer Vision  
   
 
-- 👨‍💻 All of my projects are available at https://amine-zerarga-ai.netlify.app/  
+- 👨‍💻 All of my projects are available at [My Website](https://amine-zerarga-ai.netlify.app/)
   
 
 - 📝 I regularly write articles on  [LinkedIn](https://www.linkedin.com/in/aminezerarga/)  
