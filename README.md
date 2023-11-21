@@ -3,7 +3,7 @@
 </div>  
   
 <h1 align="center">Hi 👋, I'm Amine Zerarga</h1>
-<h3 align="center">A passionate AI Engineer 🤖 👨‍💻  🚀</h3>s
+<h3 align="center">A passionate AI Engineer 🤖 👨‍💻  🚀</h3>
   
 
 <div align="right">
