@@ -16,7 +16,7 @@
   
 
 
-- 🔭 I’m currently working on my Final Year Project  
+- 🔭 I’m currently working on a self driving car project
   
 
 - 🌱 I’m currently learning AI For Autonomus Driving  
