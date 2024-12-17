@@ -19,8 +19,6 @@
 - ⚡ Fun fact: Steering Towards Autonomous Excellence  
   
 
-<br/>  
-
 ## Connect with me  
 <div align="center">
 <a href="https://www.linkedin.com/in/aminezerarga/" target="_blank">
