@@ -6,9 +6,6 @@
 <h3 align="center">A passionate AI Engineer 🤖 👨‍💻  🚀</h3>
   
 
-<div align="right">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" height="" width="400" />
-</div>  
 
 <br/>  
 
