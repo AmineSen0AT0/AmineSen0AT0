@@ -13,7 +13,7 @@
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/aminezerarga/)  
   
 
-- 📫 How to reach me aminezerarga1@gmail.com  
+- 📫 How to reach me aminezerarga3@gmail.com  
   
 
 - ⚡ Fun fact: Steering Towards Autonomous Excellence  
